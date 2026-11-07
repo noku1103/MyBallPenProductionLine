@@ -32,7 +32,7 @@ COLORS = {
     "barrel":    "#3498db",
     "tip":       "#9b59b6",
     "cartridge": "#2ecc71",
-    "cap":       "#e74c3c",
+    "cap":       "#d4af37",
     "pen":       "#f39c12",
 }
 
